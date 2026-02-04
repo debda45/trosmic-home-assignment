@@ -1,5 +1,5 @@
 # Mathematical Framework for Optimizing Fan Attention
-### Trosmic Sports | Strategy Intern Assessment
+### Trosmic Sports | Statistics Intern Assessment
 
 **Author:** Debdeep Das  
 **Education:** M.Sc. Statistics, IIT Kanpur  
